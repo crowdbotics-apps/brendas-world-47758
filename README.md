@@ -63,6 +63,8 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-core](backend/modules)
 - [django-camera](backend/modules)
 - [faq]()
+- [privacy-policy]()
+- [react-native-login](modules/login)
 
 # Getting started: Frontend
 
